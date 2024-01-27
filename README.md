@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Razak-Gawusu
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on a mern stack project
 - 📫 How to reach me gawusur@gmail.com
 
 <!---
